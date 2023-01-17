@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](kodluyoruz.org/tr) Front-End Eğitiminde oluşturduğumuz i
 
 Öncelikle projeyi clonelayın. (https://github.com/hhamitc/kodluyoruzilkrepo.git)
 
-''' git clone https://github.com/hhamitc/kodluyoruzilkrepo.git'''
+`git clone https://github.com/hhamitc/kodluyoruzilkrepo.git`
 
 # Usage
 
@@ -16,8 +16,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-''' cd kodluyoruzilkrepo 
-code .'''
+```cd kodluyoruzilkrepo 
+code.```
 
 # Contributing
 
